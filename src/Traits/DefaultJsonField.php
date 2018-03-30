@@ -1,6 +1,6 @@
 <?php
 
-namespace Goodwong\LaravelDefaultJsonField\Traits;
+namespace Goodwong\DefaultJsonField\Traits;
 
 trait DefaultJsonField
 {

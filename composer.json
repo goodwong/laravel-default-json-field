@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Goodwong\\LaravelDefaultJsonField\\": "src/"
+            "Goodwong\\DefaultJsonField\\": "src/"
         }
     },
     "minimum-stability": "stable",

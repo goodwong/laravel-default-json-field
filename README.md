@@ -14,7 +14,7 @@
 
 namespace App\Form;
 
-use Goodwong\LaravelDefaultJsonField\Traits\DefaultJsonField;
+use Goodwong\DefaultJsonField\Traits\DefaultJsonField;
 
 class Form
 {
